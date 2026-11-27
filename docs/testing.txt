@@ -1,0 +1,39 @@
+Diabetes Testing | Diabetes | CDC
+https://www.cdc.gov/diabetes/diabetes-testing/index.html
+Key points
+- Simple blood tests are used to diagnose prediabetes, type 1 diabetes, type 2 diabetes, and gestational diabetes.
+- Ask a doctor to check your blood sugar if you have symptoms or risk factors, since prediabetes and type 2 diabetes often have no obvious warning signs.
+
+Diagnostic blood tests and thresholds
+1. HbA1c test (A1C)
+The A1C test measures your average blood sugar level over the past 2 to 3 months. No fasting is required.
+- Normal: Below 5.7%
+- Prediabetes: 5.7% to 6.4%
+- Diabetes: 6.5% or higher
+Note: Certain conditions—such as severe anemia, kidney failure, liver disease, hemoglobin variants, or pregnancy—can affect A1C accuracy.
+
+2. Fasting plasma glucose test (FPG)
+This test measures your blood sugar after an overnight fast of at least 8 hours (no food or drink except water).
+- Normal: 99 mg/dL or below (less than 100 mg/dL)
+- Prediabetes: 100 to 125 mg/dL
+- Diabetes: 126 mg/dL or higher
+
+3. Oral glucose tolerance test (OGTT)
+This test measures your blood sugar before and 2 hours after you drink a liquid containing glucose to see how your body processes sugar.
+- Normal: Below 140 mg/dL
+- Prediabetes: 140 to 199 mg/dL
+- Diabetes: 200 mg/dL or higher
+
+4. Random plasma glucose test
+This test measures blood sugar at any time of day without fasting.
+- Diabetes: 200 mg/dL or higher, particularly when paired with classic symptoms of high blood sugar.
+
+Testing for type 1 diabetes
+If a doctor suspects type 1 diabetes, additional tests may include:
+- Autoantibody blood tests to check for immune markers associated with type 1 diabetes.
+- Urine or blood ketone tests to check for diabetic ketoacidosis (DKA).
+
+Testing for gestational diabetes
+Pregnant women who have not previously been diagnosed with diabetes are typically screened between 24 and 28 weeks of pregnancy:
+- Glucose screening test (1-hour): You drink a sugary liquid and have blood drawn 1 hour later. A result of 140 mg/dL or higher usually requires a follow-up oral glucose tolerance test to confirm gestational diabetes.
+- Doctors may test earlier in pregnancy if you have strong risk factors.

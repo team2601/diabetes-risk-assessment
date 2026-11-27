@@ -1,0 +1,29 @@
+Understanding A1C | American Diabetes Association
+https://diabetes.org/about-diabetes/a1c
+What is the A1C test?
+The A1C test (also called HbA1c or glycated hemoglobin test) is a blood test that reflects your average blood glucose level over the past 2 to 3 months. It measures the percentage of hemoglobin—a protein in red blood cells that carries oxygen—that is coated with sugar. The higher your average blood sugar levels, the higher your A1C percentage.
+
+A1C ranges for diagnosis
+- Normal: Below 5.7%
+- Prediabetes: 5.7% to 6.4%
+- Diabetes: 6.5% or higher
+
+A1C goals for people with diabetes
+For most nonpregnant adults with diabetes, the American Diabetes Association recommends an A1C goal of 7% or lower. Individual targets may be higher or lower depending on age, pregnancy, other health conditions, and risk of low blood sugar—always confirm your personal target with your health care provider.
+
+Converting A1C to Estimated Average Glucose (eAG)
+Because daily blood glucose meters report blood sugar in mg/dL while A1C is reported as a percentage, the Estimated Average Glucose (eAG) translates A1C into the same units used on home meters. The relationship is based on the ADAG formula: eAG (mg/dL) = 28.7 x A1C - 46.7.
+
+Official A1C to eAG conversion table:
+- A1C 6.0% = 126 mg/dL
+- A1C 6.5% = 140 mg/dL
+- A1C 7.0% = 154 mg/dL
+- A1C 7.5% = 169 mg/dL
+- A1C 8.0% = 183 mg/dL
+- A1C 8.5% = 197 mg/dL
+- A1C 9.0% = 212 mg/dL
+- A1C 9.5% = 226 mg/dL
+- A1C 10.0% = 240 mg/dL
+
+Why both A1C and daily checks matter
+A1C gives a big-picture 2-to-3-month average, while daily fingerstick or continuous glucose monitor (CGM) checks reveal day-to-day highs and lows after meals, exercise, or medication changes.
